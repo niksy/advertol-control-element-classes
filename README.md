@@ -61,4 +61,4 @@ MIT © [Ivan Nikolić](http://ivannikolic.com)
 [ci]: https://travis-ci.com/niksy/advertol-control-element-classes
 [ci-img]: https://travis-ci.com/niksy/advertol-control-element-classes.svg?branch=master
 [browserstack]: https://www.browserstack.com/
-[browserstack-img]: https://www.browserstack.com/automate/badge.svg?badge_key=
+[browserstack-img]: https://www.browserstack.com/automate/badge.svg?badge_key=UnJSTkFwM2hQUERjcUEyeFpFRCsxYkZKcStGRW5pVjVUNHZMV0NqdHhwTT0tLWg3VmVKd21CSmlMMmk3aVRTNHliTEE9PQ==--fd9507488539f9e39711098948279e659d3d73ad
